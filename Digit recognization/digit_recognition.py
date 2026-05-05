@@ -20,7 +20,7 @@ model.fit(x_train, y_train, epochs=5, verbose=1)
 print("Accuracy:", model.evaluate(x_test, y_test, verbose=0)[1])
 
 # Predict custom image
-img = cv2.imread('digit1.png', 0)
+img = cv2.imread('image.png', 0)
 if img is None:
     print("Image not found"); exit()
 

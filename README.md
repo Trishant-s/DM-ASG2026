@@ -1,5 +1,9 @@
 #  DATA MINING ASSIGNMENTS
-## Subject code: CSE1816PE21
+## *Name : Trishant Singha*
+## *Roll number : 2302010007059*
+## *Sem : 6th*
+## *Dept : CSE*
+### Subject code: CSE1816PE21
 - *Total Assignment = 4*
 
 ### **1. Digit recognization**
